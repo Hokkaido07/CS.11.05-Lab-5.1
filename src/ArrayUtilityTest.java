@@ -149,8 +149,6 @@ class ArrayUtilityTest {
         assertEquals(15, reversedTwo[1]);
         assertEquals(8, reversedTwo[2]);
 
-
-
     }
 
     @org.junit.jupiter.api.Test
@@ -463,4 +461,6 @@ class ArrayUtilityTest {
         assertTrue(arrayOne[arrayOne.length-1] == 4);
 
     }
+
+
 }
