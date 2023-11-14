@@ -1,6 +1,13 @@
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+
+/*
+This is Lab 5.1 Arrays
+Author: Alexis C.
+Date: Friday 11-10-2023
+ */
+
 public class ArrayUtility {
 
     public static void print(int[] array) {
